@@ -1,0 +1,190 @@
+### Step 2A
+/c/Users/molin
+
+### Step 2B
+molin@DESKTOP-L2D6GL3 MINGW64 ~
+$ cd OneDrive
+
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive
+$ ls
+ Attachments/  'Document 1.docx'   Document.docx   Music/                 Pictures/   desktop.ini
+ Desktop/      'Document 2.docx'   Documents/     'Personal Vault.lnk'*   Public/
+
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive
+$ cd Desktop
+
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop
+$ ls
+'Command Line Cheat Sheet.url'  'Git Commands Cheat Sheet.url'   desktop.ini   unit1-git-practice/
+
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop
+$
+
+
+### Step 2C
+
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop
+$ cd unit1-git-practice
+
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$
+
+### Step 2D
+/c/Users/molin/OneDrive/Desktop/unit1-git-practice
+
+
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+
+### Step 2G
+cd ~
+
+
+### Step 2H
+/c/Users/molin
+
+### Step 2I
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Documents/
+ Downloads/
+ Favorites/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+ NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
+
+### Step 2J
+cd ~
+
+### Step 2K
+$ cd OneDrive/Desktop/unit1-git-practice
+
+
+
+### Step 3A
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir veggies
+
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir meats
+
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir desserts
+
+### Step 3B
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mv desserts sweets
+
+
+### Step 3C
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir proteins
+
+
+### Step 3D
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mv meats proteins
+
+
+### Step 3E
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ cd veggies
+
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice/veggies
+$ touch carrot.txt
+
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice/veggies
+$ touch pea.txt
+
+
+### Step 3F
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice/veggies
+$ cd ..
+
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ cd sweets
+
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice/sweets
+$ touch cookie.txt
+
+
+### Step 3G
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice/sweets
+$ mv cookie.txt donut.txt
+
+### Step 3H
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice/sweets
+$ cd ..
+
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ touch thing.txt
+
+
+### Step 3I
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ cp thing.txt tofu.txt
+
+### Step 3J
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mv tofu.txt proteins
+
+### Step 3K
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mv crab.txt proteins/meats
+
+
+### Step 3L
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ rm thing.txt
+
+### Step 3M
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ cp -r veggies plants
+
+
+### Step 3N
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir drinks
+
+molin@DESKTOP-L2D6GL3 MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ rm -r drinks
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
